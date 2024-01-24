@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.doc.app-mergeDebugResources-4:/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Abhinav\\.gradle\\caches\\transforms-3\\ac8d0903fd886064e4440a5355d1dcc4\\transformed\\appcompat-1.6.1\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "121",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "289"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Abhinav\\.gradle\\caches\\transforms-3\\1611756bb820161f09565fccf9dea0b6\\transformed\\core-1.9.0\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                }
+            ]
+        }
+    ]
+}
