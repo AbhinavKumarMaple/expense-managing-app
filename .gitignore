@@ -43,6 +43,7 @@ project.xcworkspace
 /packages/react-native/template/android/app/build/
 /packages/react-native/template/android/build/
 
+
 # Buck
 .buckd
 buck-out
@@ -160,3 +161,7 @@ vendor/
 
 android/app/build/outputs/*
 .yarn
+
+android/app/google-services.json
+android/app/my-upload-key.keystore
+android/app/debug.keystore
